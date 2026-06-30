@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:b300ff,100:ff006e&height=220&section=header&text=Surya%20Prasath%20P&fontSize=45&animation=fadeIn&theme=dark" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:b300ff,100:ff006e&height=220&section=header&text=Suryaprasath%20P&fontSize=45&animation=fadeIn&theme=dark" width="100%" />
   
   <br/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Developer;Full+Stack+Developer;Problem+Solver;AI+%26+Security+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Developer;SQL+Developer;Prompt+Engineering;Frontend+(HTML+%26+CSS);Team+Leader;Management" />
 
   <img src="https://komarev.com/ghpvc/?username=Suryaprasath-41&label=Profile%20Views&color=00f5ff&style=for-the-badge"/>
 </div>
@@ -15,7 +15,7 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" width="30%" valign="middle" style="border: none;">
-      <img src="assets/developer_avatar.png" width="180" alt="Surya Prasath P" style="border-radius: 50%;" />
+      <img src="assets/developer_avatar.png" width="180" alt="Suryaprasath P" style="border-radius: 50%;" />
     </td>
     <td width="70%" valign="top" style="border: none; padding-left: 20px;">
       <p>🎓 <b>B.Tech in Computer Science & Business Systems</b> from V.S.B Engineering College</p>
@@ -254,7 +254,7 @@
 
 ```java
 public class Developer {
-    private String name = "Surya Prasath P";
+    private String name = "Suryaprasath P";
     private String[] skills = {"Java", "Spring Boot", "REST APIs", "System Design"};
     private boolean passionate = true;
     
@@ -285,7 +285,7 @@ public class Developer {
     <img src="https://img.shields.io/badge/Gmail-suryaprasath41%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/suryaprasath-palaniappan">
-    <img src="https://img.shields.io/badge/LinkedIn-Surya%20Prasath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Suryaprasath%20P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Suryaprasath-41">
     <img src="https://img.shields.io/badge/GitHub-Suryaprasath--41-181717?style=for-the-badge&logo=github&logoColor=white"/>
