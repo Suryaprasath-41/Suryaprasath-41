@@ -6,8 +6,6 @@
   <h1>Hi 👋, I'm Suryaprasath P</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=JAVA+DEVELOPER;BACKEND+DEVELOPER;SQL+DEVELOPER;PROMPT+ENGINEERING;FRONTEND+(HTML+AND+CSS);TEAM+LEADER;MANAGEMENT" />
-
-  <img src="https://komarev.com/ghpvc/?username=Suryaprasath-41&label=Profile%20Views&color=00f5ff&style=for-the-badge"/>
 </div>
 
 <img src="assets/gradient_divider.svg" width="100%" height="4" />
